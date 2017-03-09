@@ -102,7 +102,7 @@ master_plan(my_path, pattern_list, my_text_file_path, duplicate_text_file_path)
 
 	
 
-#next need to go through each .msg file type and extract any attachments
+
 
 
 
